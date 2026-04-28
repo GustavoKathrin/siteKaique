@@ -22,7 +22,7 @@ export default function Structure() {
               Uma arquitetura jurídica pensada para casos de <span className="italic text-charcoal-300 font-light">alta complexidade.</span>
             </h3>
             <p className="text-charcoal-300 text-lg font-light mb-6 leading-relaxed">
-              Dr. Alexandre Ferraz fundou o escritório sob uma filosofia inflexível: menos volume, mais precisão. Como uma boutique jurídica, não aceitamos todos os casos. Isso garante nossa total atenção irrestrita e dedicação analítica às demandas que patrocinamos.
+              Dr. kaique carneiro fundou o escritório sob uma filosofia inflexível: menos volume, mais precisão. Como uma boutique jurídica, não aceitamos todos os casos. Isso garante nossa total atenção irrestrita e dedicação analítica às demandas que patrocinamos.
             </p>
             <p className="text-charcoal-300 text-lg font-light leading-relaxed">
               Operamos no cruzamento perfeito entre a tradição do Direito impecável e as estratégias mais avançadas e contemporâneas de negociação e litígio.

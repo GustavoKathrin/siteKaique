@@ -22,7 +22,7 @@ export default function Hero() {
         <div className="absolute inset-0 bg-gradient-to-t from-charcoal-950 via-transparent to-transparent z-10" />
         <img 
           src="/hero-lawyer-final.jpg" 
-          alt="Dr. Alexandre Ferraz" 
+          alt="Dr. Kaique Advocacia " 
           className="w-full h-full object-cover object-[right_center] lg:object-[right_30%]"
         />
       </motion.div>

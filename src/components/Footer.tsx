@@ -9,7 +9,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-6 relative z-10">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-16 mb-24">
           <div className="lg:col-span-2">
-            <h2 className="font-serif text-4xl text-white mb-6 tracking-wide">Dr. Alexandre Ferraz</h2>
+            <h2 className="font-serif text-4xl text-white mb-6 tracking-wide">Dr. KAIQUE</h2>
             <p className="text-charcoal-300 font-light text-lg max-w-md leading-relaxed pr-8">
               A advocacia elevada ao seu mais alto padrão. Defesa implacável dos seus interesses com rigidez técnica e discrição absoluta.
             </p>
@@ -45,7 +45,7 @@ export default function Footer() {
         </div>
         
         <div className="border-t border-white/5 pt-10 flex flex-col md:flex-row justify-between items-center gap-6 text-sm text-charcoal-600 font-light">
-          <p>&copy; {new Date().getFullYear()} Alexandre Ferraz Advocacia Premium. Todos os direitos reservados.</p>
+          <p>&copy; {new Date().getFullYear()} KAIQUE Advocacia Premium. Todos os direitos reservados.</p>
           <div className="flex gap-8">
             <span className="hover:text-charcoal-300 transition-colors cursor-pointer duration-300">Termos de Uso</span>
             <span className="hover:text-charcoal-300 transition-colors cursor-pointer duration-300">Política de Privacidade</span>
